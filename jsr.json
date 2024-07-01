@@ -1,0 +1,9 @@
+{
+  "name": "@math-util/is-odd",
+  "version": "1.0.0",
+  "exports": {".": "./mod.ts"},
+  "publish": {
+    "include": ["jsr.json", "*.ts", "README.md", "LICENSE"],
+    "exclude": ["*.test.ts"]
+  }
+}

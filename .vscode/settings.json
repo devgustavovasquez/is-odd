@@ -1,0 +1,5 @@
+{
+  "editor.defaultFormatter": "biomejs.biome",
+  "biome.enabled": true,
+  "deno.enable": true
+}
